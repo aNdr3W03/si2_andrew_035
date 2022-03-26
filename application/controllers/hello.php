@@ -5,8 +5,8 @@ class Hello extends CI_Controller {
 	public function index()
 	{
         // echo 'Hello World!!!';
-
-        $data['nama'] = 'Andrew';
+        
+        $data['nama'] = 'Andrew Benedictus Jamesie';
         $data['nim']  = '201401035';
         $data['kom']  = 'A';
 
