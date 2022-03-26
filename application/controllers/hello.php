@@ -7,7 +7,7 @@ class Hello extends CI_Controller {
         // echo 'Hello World!!!';
 
         $data['nama'] = 'Andrew';
-        $data['nim']  = '035';
+        $data['nim']  = '201401035';
         $data['kom']  = 'A';
 
 		$this->load->view('hello_world', $data);
